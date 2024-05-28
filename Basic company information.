@@ -1,0 +1,17 @@
+! name: Basic company information.
+! description: Collects basic company information.
+! public: true
+! author: ManaArt
+
+! Boost wiki-based information.
+$boost=10,site=en.wikipedia.org
+
+! Boost financial information
+$boost=9,site=finance.yahoo.com
+$boost=9,site=companiesmarketcap.com
+
+! Boost review information.
+$boost=8,site=glassdoor.com
+
+! Boost statistical information.
+$boost=7,site=statista.com
