@@ -3,6 +3,9 @@
 ! public: true
 ! author: ManaArt
 
+! Remove results that do not match any other rules.
+$discard
+
 ! Boost wiki-based information.
 $boost=10,site=en.wikipedia.org
 
