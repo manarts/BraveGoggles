@@ -1,5 +1,5 @@
-! name: [Focus] Basic company information.
-! description: Collects basic company information and remove results that do not match any other rules.
+! name: Basic company information.
+! description: Collects basic company information.
 ! public: true
 ! author: ManaArt
 
